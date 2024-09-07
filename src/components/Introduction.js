@@ -17,7 +17,7 @@ const Introduction = () => {
             <div className="introduction">
                 <div className="text">
                     <h2>
-                        Things I can't say in words,
+                        Things I can't say in words, <br />
                         I express with photos.
                     </h2>
 
