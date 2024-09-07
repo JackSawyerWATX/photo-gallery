@@ -1,4 +1,6 @@
+
 // src/components/Introduction.js
+
 import React from "react";
 import { useNavigate } from 'react-router-dom';
 import cascade from "../images/cascadehead_oregon_viewpoint_hero.jpg";

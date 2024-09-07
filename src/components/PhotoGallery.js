@@ -1,4 +1,6 @@
+
 // src/components/PhotoGallery.js
+
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import image1 from '../images/CoffeeShopAtNight.jpg';
@@ -6,17 +8,11 @@ import image2 from '../images/ColumbiaRiver.jpg';
 import image3 from '../images/FarmJunk.jpg';
 import image4 from '../images/NYCSubway (2).png';
 import image5 from '../images/JacksonSquareNOLA.jpg';
-import image6 from '../images/WestheimerSunset.jpeg';
+import image6 from '../images/WestheimerSunset.jpg';
 
 const PhotoGallery = () => {
     // Assuming photos is an array of image URLs
     const photos = [
-        // 'https://media.geeksforgeeks.org/wp-content/uploads/20240122102942/1a-(2).jpg',
-        // 'https://media.geeksforgeeks.org/wp-content/uploads/20240122102942/2b.jpg',
-        // 'https://media.geeksforgeeks.org/wp-content/uploads/20240122103211/13.jpg',
-        // 'https://media.geeksforgeeks.org/wp-content/uploads/20240122103211/15.jpg',
-        // 'https://media.geeksforgeeks.org/wp-content/uploads/20240122103210/12.jpg',
-        // 'https://media.geeksforgeeks.org/wp-content/uploads/20240122103210/14.jpg',
         image1, image2, image3, image4, image5, image6,
     ];
 
