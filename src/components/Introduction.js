@@ -22,9 +22,10 @@ const Introduction = () => {
                     </h1>
 
                     <p>
-                        These places are grab my imagination.
-                        They're also places my imagination escapes to.
+                        These places are grab my imagination, <br />
+                        And the places my imagination escapes to.
                     </p>
+                        <br />
                     <button onClick={handleClick} className="explore-button">
                         Explore Now
                     </button>
