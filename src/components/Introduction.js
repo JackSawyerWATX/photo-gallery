@@ -16,10 +16,10 @@ const Introduction = () => {
         <>
             <div className="introduction">
                 <div className="text">
-                    <h1>
+                    <h2>
                         Things I can't say in words,
                         I express with photos.
-                    </h1>
+                    </h2>
 
                     <p>
                         These places are grab my imagination, <br />
