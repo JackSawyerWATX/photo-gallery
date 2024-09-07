@@ -17,17 +17,13 @@ const Introduction = () => {
             <div className="introduction">
                 <div className="text">
                     <h1>
-                        Your Journey Through My
-                        Photography Begins Here
+                        Things I can't say in words,
+                        I express with photos.
                     </h1>
+
                     <p>
-                        Discover the beauty I've
-                        see through my lens...
-                    </p>
-                    <p>
-                        These moments that tell stories
-                        create memories that last a
-                        lifetime.
+                        These places are grab my imagination.
+                        They're also places my imagination escapes to.
                     </p>
                     <button onClick={handleClick} className="explore-button">
                         Explore Now
