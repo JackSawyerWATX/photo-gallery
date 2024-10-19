@@ -24,12 +24,12 @@ const Introduction = () => {
                     </h2>
 
                     <p>
-                        These places grab my imagination, <br />
-                        And are the places my imagination escapes to.
+                        These are the places that grab my imagination, <br />
+                        And these are the places my imagination escapes to.
                     </p>
                         <br />
                     <button onClick={handleClick} className="explore-button">
-                        Explore Now
+                        To The Gallery...
                     </button>
                 </div>
                 <div className="image">
