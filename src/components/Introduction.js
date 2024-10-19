@@ -19,13 +19,13 @@ const Introduction = () => {
             <div className="introduction">
                 <div className="text">
                     <h2>
-                        Things I can't say in words, <br />
+                        Things I can't say with words, <br />
                         I express with photos.
                     </h2>
 
                     <p>
-                        These places are grab my imagination, <br />
-                        And the places my imagination escapes to.
+                        These places grab my imagination, <br />
+                        And are the places my imagination escapes to.
                     </p>
                         <br />
                     <button onClick={handleClick} className="explore-button">

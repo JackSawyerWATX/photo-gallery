@@ -2,8 +2,8 @@
 /* src/components/Navbar.css */
 
 .navbar-container {
-    background-color: #8fa7cb;
-    color: #fff;
+    background-color: #1d4b3b;
+    color: #ece6d0;
     padding: 10px 20px;
     display: flex;
     justify-content: space-between;
@@ -27,13 +27,13 @@
 
 .nav-links a {
     text-decoration: none;
-    color: #fff;
+    color: #ece6d0;
     font-weight: bold;
     font-size: 1.2em;
     transition: color 0.3s ease-in-out;
 }
 
 .nav-links a:hover {
-    color: #b0c4de;
+    color: #914b13;
     /* Change the color on hover as desired */
 }

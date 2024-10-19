@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Arial', sans-serif;
-    background-color: #dfcfe6;
+    background-color: #d3a222;
   }
   
   .introduction {
@@ -13,6 +13,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 50px;
+    color: #ece6d0;
   }
   
   .text {
@@ -26,23 +27,24 @@ body {
   
   p {
     font-size: 1.2em;
-    color: #555;
+    color: #ece6d0;
     margin-bottom: 10px;
   }
   
   .explore-button {
-    background-color: #8fa7cb;
-    color: #fff;
+    background-color: #1d4b3b;
+    color: #d3a222;
     padding: 10px 20px;
     font-size: 1.2em;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s ease-in-out;
+    transition: background-color 0.6s ease-in-out;
   }
   
   .explore-button:hover {
-    background-color: #b0c4de;
+    color: #1d4b3b;
+    background-color: #d3a222;
   }
   
   .buy-plans {
