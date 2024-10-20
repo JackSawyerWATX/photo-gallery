@@ -53,10 +53,10 @@ const PhotoGallery = () => {
     // Assuming photos is an array of image URLs
     const photos = [
         image1,
-        image2, 
-        image3, 
-        image4, 
-        image5, 
+        image2,
+        image3,
+        image4,
+        image5,
         image6,
         image7,
         image8,
@@ -70,7 +70,6 @@ const PhotoGallery = () => {
         image16,
         image17,
         image18,
-        image19,
         image19,
         image20,
         image21,
