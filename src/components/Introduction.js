@@ -27,6 +27,7 @@ const Introduction = () => {
                         These are the places that grab my imagination, <br />
                         And these are the places my imagination escapes to.
                     </p>
+                    <p>The best photos are yet to come.</p>
                         <br />
                     <button onClick={handleClick} className="explore-button">
                         To The Gallery...
